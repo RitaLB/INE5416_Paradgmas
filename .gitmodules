@@ -1,0 +1,3 @@
+[submodule "trabalhos_em_grupo"]
+	path = trabalhos_em_grupo
+	url = git@github.com:Enzo-Bassani/paradigmas.git
